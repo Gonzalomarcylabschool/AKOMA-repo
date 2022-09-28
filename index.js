@@ -1,4 +1,4 @@
 function function_name() {
-    let num =1;
+    let num =2;
     return num;
 }
