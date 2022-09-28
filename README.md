@@ -1,2 +1,2 @@
 # check to see if my for works
-## trying to make a merge conflic
+## this should be a conflict
